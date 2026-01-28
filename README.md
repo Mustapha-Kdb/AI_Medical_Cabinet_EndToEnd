@@ -30,7 +30,7 @@ This is the "brain" of the project, responsible for executing logic and using to
 * **Appointment Logic:** Manages the full flow from service selection to final validation.
 * **CRUD Operations:** Seamlessly updates the medical center platform based on user requests.
 
-![AI Agent Workflow](.screenshots/agent_Wokflow.png)
+![Data Sync Workflow](./screenshots/agent_workflow.png)
 
 ## 🔒 Security & Context Management (Session Memory)
 
